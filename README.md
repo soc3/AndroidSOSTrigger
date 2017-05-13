@@ -18,3 +18,22 @@ selected contacts list
 
 #Questions or Comments
 If you have any questions or comments about the project, leave us a post on our [community page](http://community.mbientlab.com/)
+
+4 files are added by Sushant Oberoi MNNIT ALLAHABAD CSE on 13 - 05 - 2017
+
+1. TakeAutomaticPicture.java
+2. activity_take_auto_picture.xml
+3. security.xml
+4. SecurityBySushantOberoi.java
+
+By this an additional feature has been added to the app :
+On triggering of the SOS button or the separate buttons for send photo and message
+A photo will be clicked and sent (after 5 sec period if one want) automatically by the front camera without opening and without any flash
+So, without giving any clue to the criminal or to anyone near which can prove to be a very good security measure.
+
+Permissions for the same has been added in the manifest file.
+For any hugs and bugs contact : sushantoberoi3@gmail.com
+
+Love to Contribute to Open source.
+
+Contact No. 9997946131
